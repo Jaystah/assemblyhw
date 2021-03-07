@@ -3,7 +3,7 @@
 askBaseStr: 	.asciz "Typ your non-negative base: "
 askExpStr:	.asciz "Typ your exponent: "
 number:		.asciz "%ld"
-welcomeStr:	.asciz "Hello and welcome to Assignment 1\nMy name: Jesse van Papenrecht\nMy netid: jvanpapenrecht\n"
+welcomeStr:	.asciz "Hello and welcome to the power function\nOur names: Jay Doerga and Zefan Morsen\n"
 printAnsStr:	.asciz "Answer is: "
 breakStr:	.asciz "\n"
 
